@@ -1,4 +1,4 @@
 HN
 ==
 
-Bug tracking and eventually public code releases of Hacker News.
+Bug tracking for [Hacker News](https://news.ycombinator.com).
